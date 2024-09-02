@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h2>Mortgage Calculator</h2>
+      <h2>Калькулятор ипотеки</h2>
     </>
   )
 }
